@@ -1,5 +1,5 @@
 ---
-title: JavaScript array filtering tips
+title: More efficient ways to filter arrays in JavaScript
 shortTitle: Array filtering tips
 type: story
 tags: javascript,array
